@@ -1,7 +1,7 @@
 baseurl: '/garden/'
 permalink: pretty
 title: "Sandy's Gardening & Landscape Design"
-theme: zerostaticthemes/jekyll-serif-theme
+remote_theme: "zerostaticthemes/jekyll-serif-theme"
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
