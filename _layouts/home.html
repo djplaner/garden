@@ -3,21 +3,23 @@ layout: default
 bodyClass: "page-home"
 ---
 
-<div class="intro">
-  <div class="container">
-    <div class="row justify-content-start">
-      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-        {{ content }}
-        {% if page.show_call_box %}
+<div class="top-banner-section">
+  {% if page.hero_image %}
+  <div class="banner-image-div">
+    <img alt="{{ page.title }}" class="banner-image" src="{{ page.hero_image }}" />
+  </div>
+  {% endif %}
+  <div class="banner-overlay-div"></div>
+  <div class="banner-text-div">
+    <div class="container">
+      <div class="row justify-content-start">
+        <div class="hero-content col-12 col-md-7 col-lg-6 order-2 order-md-1"> 
+          {{ content }}
+          {% if page.show_call_box %}
           {% include call.html show_button=true %}
-        {% endif %}
+          {% endif %}
+        </div> 
       </div>
-      {% if page.intro_image %}
-      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
-      </div>
-      {% endif %}
-    </div>
   </div>
 </div>
 
@@ -41,7 +43,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
+        <a class="button button-primary" href="{{ " services" | relative_url }}">View All Services</a>
       </div>
     </div>
   </div>
@@ -57,7 +59,8 @@ bodyClass: "page-home"
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="comment">
           {% if comment.image %}
-          <div class="comment-image"><img alt="{{ comment.title }} logo" src="{{ comment.image.url | relative_url }}" width="{{ comment.image.width }}" height="{{ comment.image.height }}" /></div>
+          <div class="comment-image"><img alt="{{ comment.title }} logo" src="{{ comment.image.url | relative_url }}"
+              width="{{ comment.image.width }}" height="{{ comment.image.height }}" /></div>
           {% endif %}
           <h2 class="comment-title">{{ comment.title }}</h2>
           <div class="comment-content">{{ comment.description }}</div>
@@ -79,7 +82,8 @@ bodyClass: "page-home"
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
           {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}"
+              width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
           {% endif %}
           <h2 class="feature-title">{{ feature.title }}</h2>
           <div class="feature-content">{{ feature.description }}</div>
