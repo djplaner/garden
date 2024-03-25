@@ -2,7 +2,8 @@
 title: Sandy's Gardening
 layout: home
 description: Business site for Sandy's Gardening and Landscape Design.
-intro_image: "images/rainbow-cropped.jpg"
+inXXtro_image: "images/rainbow-cropped.jpg"
+hero_image: "images/rainbow-hero.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
