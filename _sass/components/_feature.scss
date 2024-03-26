@@ -3,7 +3,8 @@
   border: 1px solid $white-offset;
   border-radius: 3px;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: $feature-background; 
+  color: $feature-text;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -19,6 +20,7 @@
   img {
     width: 100%;
     height: auto;
+    display: none;
   }
   .feature-title {
   }

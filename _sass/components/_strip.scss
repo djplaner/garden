@@ -1,5 +1,6 @@
 .strip {
-  background: white;
+  background-color: $strip-background;
+  color: $strip-text;
   background-repeat: no-repeat;
 }
 .strip-white {
