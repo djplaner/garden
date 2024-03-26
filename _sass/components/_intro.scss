@@ -1,5 +1,7 @@
 .top-banner-section {
   display: grid;
+  color: $intro-text;
+  background-color: $intro-background;
   grid-template-columns: 1fr; // stretch to the full frame
   /*grid-template-rows: 350px; // 350 pixels tall */
   grid-template-rows: auto;
