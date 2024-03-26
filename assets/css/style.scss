@@ -11,7 +11,7 @@ $dark-moss-green: #556e22;
 $khaki: #b0a383;
 $walnut-brown: #5b5641;
 $tea-green: #c8da95; 
-$purple: $6c22a6;
+$purple: #6c22a6;
 $dark-purple: #342947; 
 $white: #fffdeb;
 $black: #000000;
@@ -36,6 +36,7 @@ $call-text: $black;
 // feature 
 $feature-background: $walnut-brown;
 $feature-text: $white;
+$feature-content-text: darken($white, 5%);
 
 
 //$secondary: #f88379;

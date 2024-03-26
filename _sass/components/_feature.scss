@@ -1,6 +1,6 @@
 .feature {
   height: 100%;
-  border: 1px solid $white-offset;
+  //border: 1px solid $white-offset;
   border-radius: 3px;
   padding: 20px;
   background-color: $feature-background; 
@@ -20,12 +20,12 @@
   img {
     width: 100%;
     height: auto;
-    display: none;
   }
   .feature-title {
   }
   .feature-content {
     margin-bottom: 0;
     margin-top: auto;
+    color: $feature-content-text;
   }
 }
