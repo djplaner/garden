@@ -27,7 +27,7 @@ bodyClass: "page-services"
           <h2 class="service-title">
             <a href="{{ garden.url | relative_url }}">{{ garden.title }}</a>
           </h2>
-          <p>{{ garden.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ garden.excerpt | markdownify | strip_html | truncate: 500 }}</p>
         </div>
       </div>
     </div>

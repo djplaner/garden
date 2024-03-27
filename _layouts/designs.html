@@ -27,7 +27,7 @@ bodyClass: "page-designs"
           <h2 class="service-title">
             <a href="{{ design.url | relative_url }}">{{ design.title }}</a>
           </h2>
-          <p>{{ design.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ design.excerpt | markdownify | strip_html | truncate: 500 }}</p>
         </div>
       </div>
     </div>
