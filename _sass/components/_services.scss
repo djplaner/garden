@@ -1,0 +1,26 @@
+.service {
+  height: 100%;
+  //border: 1px solid $white-offset;
+  border-radius: 3px;
+  padding: 1em;
+  background-color: $service-background; 
+  color: $service-text;
+}
+
+.service p {
+  background-color: $service-background; 
+  color: $service-text;
+}
+
+.service-dark {
+  height: 100%;
+  border-radius: 3px;
+  padding: 1em;
+  background-color: $service-dark-background;
+  color: $service-dark-text;
+}
+
+.service-dark p {
+  background-color: $service-dark-background;
+  color: $service-dark-text;
+}
