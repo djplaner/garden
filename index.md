@@ -11,4 +11,4 @@ show_call_box: true
 
 # Sandy's Gardening & Landscape Design
 
-Sunt eiusmod cupidatat nulla labore consequat non. Qui est proident magna minim aliquip. In dolor anim sit in tempor nostrud officia ad anim eu nulla nisi elit occaecat. Id exercitation ex aute consequat id reprehenderit non. 
+Brilliant summary coming RSN

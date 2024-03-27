@@ -42,6 +42,14 @@ $feature-background: $walnut-brown;
 $feature-text: $white;
 $feature-content-text: darken($white, 5%);
 
+// services
+$service-background: $tea-green;
+$service-text: $black;
+$service-dark-background: $tea-green; 
+$service-dark-text: $black;
+
+
+
 // Footer
 $footer-background-color: $primary;
 $footer-text-color: $white;
@@ -122,6 +130,7 @@ $font-family-heading: "Playfair Display", serif, -apple-system;
 @import "libraries/hamburgers/hamburgers";
 
 // Components
+@import "components/services";
 @import "components/type";
 @import "components/page";
 @import "components/header";
@@ -145,7 +154,8 @@ $font-family-heading: "Playfair Display", serif, -apple-system;
 // Pages
 @import "pages/page-home";
 @import "pages/page-teams";
-@import "pages/page-service";
+@import "pages/page-designs";
+@import "pages/page-gardening";
 
 body {
   font-size: 16px;
