@@ -2,14 +2,56 @@
 ---
 
 // Colors
+// "white": #ffFDEB 
+// sandypurple: #6c22a6
+// green: #A4b970
 //$primary: #e5261f;
-$primary: #6c22a6;
-//$primary-dark: #a01b16;
-$primary-dark: #6C22A6;
+// **** Colour generator - https:/coolors.co/ from hero 
+$dark-moss-green: #556e22;
+$khaki: #b0a383;
+$walnut-brown: #5b5641;
+$tea-green: #c8da95; 
+$purple: #6c22a6;
+$dark-purple: #342947; 
+$white: #fffdeb;
+$black: #000000;
+
+// global colours
+$background: $white;
+$primary: $purple;
+$primary-dark: $dark-purple ;
+
+// header 
+$header-background: $white;
+$header-text: $black;
+
+// intro
+$intro-background: $dark-moss-green;
+$intro-text: $white;
+
+// strip
+$strip-background: $tea-green;
+$strip-text: $black;
+
+// call
+$call-background: $khaki;
+$call-text: $black;
+
+// feature 
+$feature-background: $walnut-brown;
+$feature-text: $white;
+$feature-content-text: darken($white, 5%);
+
+// Footer
+$footer-background-color: $primary;
+$footer-text-color: $white;
+$sub-footer-background-color: darken($primary, 10%);
+$sub-footer-text-color: $white;
+
 //$secondary: #f88379;
 $secondary: #6962AD;
-$black: #2f2f41;
-$white: #ffffff;
+//$black: #2f2f41;
+//$white: #ffffff;
 $white-offset: #fff6f8;
 $steel: #5c5a5a;
 
@@ -23,11 +65,6 @@ $link-hover-decoration: underline;
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: "Playfair Display", serif, -apple-system;
 
-// Footer
-$footer-background-color: $primary;
-$footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
-$sub-footer-text-color: $white;
 
 // Bootstrap 5.3.2
 
