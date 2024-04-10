@@ -2,6 +2,7 @@
   display: none;
   @include media-breakpoint-up(sm) {
     display: block;
+    width: 10rem;
   }
   img {
     max-width: unset;
@@ -29,3 +30,11 @@
     height: 100%;
   }
 }
+  .header-logo {
+    float: left;
+  }
+  .logo-name {
+    font-size: small;
+    color: black;
+    line-height: 0.9rem;
+  }
