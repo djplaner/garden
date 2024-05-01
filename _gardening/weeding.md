@@ -1,10 +1,10 @@
 ---
-title: "Weed Control"
+title: "Weeding"
 date: 2018-12-28T15:14:39+10:00
 weight: 2
 ---
 
-We are dedicated to providing environmentally friendly weed control solutions that prioritize the health of your garden and the well-being of our planet. At Sandy's Gardening and Landscape Design we understand the challenges posed by weeds and the importance of addressing them in a sustainable and eco-conscious manner.
+You hate it - we do it! Let us help you get control over one of the least loved chores in the garden: weeding. *Frustrating*, *relentless*, *overwhelming* - but it doesn't have to be that way. We achieve instant results by thorough removal of weeds without reliance on toxic herbicides. More importantly long-lasting results are achieved by addressing the underlying causes of weed growth and promoting a healthy subsoil.
 
 ## Safe and Sustainable Practices
 

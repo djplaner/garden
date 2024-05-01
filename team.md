@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team of gardeners and landscape designers would love to meet and chat with you to discuss your garden or next up and coming project.

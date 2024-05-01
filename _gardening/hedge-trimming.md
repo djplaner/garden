@@ -1,25 +1,23 @@
 ---
-title: "Hedge Trimming"
+title: "Hedges"
 date: 2019-05-18T12:33:46+10:00
-weight: 7
+weight: 4
 ---
 
-We offer expert hedge trimming services that prioritize the health of your hedges and the environment. At Sandy's Gardening and Landscape Design, our commitment to sustainability guides every aspect of our work, from the equipment we use to the techniques we employ.
+Messy, time-consuming, labour-intensive and often tricky to get just right. Keeping your hedges looking their best can be a daunting task. At Sandy's Gardening & Landscape Design, we understand the challenges of hedge maintenance all too well. That's why we offer expert hedge trimming services that not only prioritize the health and beauty of your hedges but also spare you from the hassle and frustration that often go along with it. 
 
-## Eco-Conscious Equipment
+Here are some key points of our Hedge service:
 
-We understand the importance of reducing noise pollution and minimizing environmental impact, which is why we exclusively use battery-powered hedge trimmers and manual secateurs for our hedge trimming services. Unlike gas-powered equipment, our battery-powered tools operate quietly and emit zero emissions, ensuring a peaceful and environmentally friendly hedge trimming experience for you and your neighbors.
+1. Skilled Techniques for Beautiful Results
 
-## Skilled Techniques for Beautiful Results
+Hedge trimming is both an art and a science, requiring precision, patience, and skill. With years of experience and a passion for perfection, we pride ourselves on our ability to sculpt hedges to perfection while promoting their long-term health and vitality.
 
-Hedge trimming is both an art and a science, requiring precision, patience, and skill. With years of experience and a passion for perfection, we pride ourselves on our ability to sculpt hedges to perfection while promoting their long-term health and vitality. Whether you need shaping, thinning, or rejuvenation pruning, you can trust our expertise to deliver exceptional results every time.
+2. Customised Solutions
 
-## Customized Solutions for Your Hedge Needs
+We understand that every hedge is unique, which is why we take a personalized approach to hedge trimming. Before we begin, we'll assess the condition of your hedges, discuss your goals and preferences, and tailor our trimming techniques to meet your specific needs. Whether you're looking to maintain a formal hedge, create naturalistic shapes, or enhance privacy and security, we'll work with you to achieve your goals.
 
-We understand that every hedge is unique, which is why we take a personalized approach to hedge trimming. Before we begin, we'll assess the condition of your hedges, discuss your goals and preferences, and tailor our trimming techniques to meet your specific needs. Whether you're looking to maintain a formal hedge, create naturalistic shapes, or enhance privacy and security, we'll work with you to achieve your desired aesthetic and functional outcomes.
+3. Quiet and Fume Free Equipment
 
-## Transform Your Hedges, Enhance Your Landscape
+Say goodbye to noisy disruptions and unpleasant fumes! Our hedge trimming service relies exclusively on battery-powered hedge trimmers and manual trimming equipment. Without the use of petrol, our equipment operates quietly and odor-free, ensuring peace and tranquility for you and your neighbors during the trimming process.
 
-By choosing Sandy's Gardening and Landscape Design for your hedge trimming needs, you're not just investing in beautifully manicured hedges – you're also contributing to a greener, more sustainable environment. Join us in our mission to promote eco-friendly landscaping practices and create outdoor spaces that thrive in harmony with nature.
-
-Contact us today to schedule your environmentally friendly hedge trimming service and experience the difference firsthand.
+Contact us today to schedule your next hedge trimming service and experience the difference firsthand.

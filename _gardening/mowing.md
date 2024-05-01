@@ -4,22 +4,17 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Our approach to lawn maintenance integrates sustainable practices, eco-friendly equipment, and innovative techniques to promote a healthier lawn and a healthier planet. At Sandy's Gardening and Landscape Design, we're committed to providing environmentally friendly lawn care services that not only enhance the beauty of your outdoor space but also minimize our ecological footprint. 
+Shh!... hear that? Probably not. Our battery powered equipment means less noise and more peace for you and your neighbours. We provide a quieter, less disruptive mowing service. Moreover, our self-mulching lawn-mowers promote a healthier lawn by adding precious nutrients back the soil where they are needed the most. Enjoy a lush more vibrant lawn without disturbing the peace. 
 
-## Eco-Friendly Equipment
+Some key points of our mowing service:
 
-We understand the importance of reducing emissions and noise pollution in residential areas, which is why we exclusively use battery-powered equipment for our lawn care services. Our lithium-ion battery-powered mowers and grass trimmers offer the perfect balance of power, efficiency, and environmental responsibility. Not only do they eliminate harmful emissions associated with petrol-powered equipment, but they also operate quietly, minimizing noise disturbance for you and your neighbors.
+1. Eco-friendly equipment - we rely exclusively on the use of battery-powered equipment. Reducing emissions and noise pollution in residential areas is important to us. 
 
-## Techniques for Sustainable Lawn Care
+2. Sustainable lawn care techniques - cutting at the correct height for each season, spot removal of weeds and self-mulching lawn mowers. These are all proven techniques that promote a lush more vibrant lawn without the need for synthetic fertiliser. 
 
-Our lawn care techniques are designed to promote the long-term health and vitality of your lawn while minimizing environmental impact. We mow your lawn at the correct height for each season, ensuring optimal grass health and resilience against weeds and pests. Additionally, our mowers are equipped with self-mulching capabilities, returning grass clippings back to the soil as natural fertilizer. This not only reduces waste but also enriches the soil, promoting a lush and vibrant lawn without the need for synthetic fertilizers.
+3. Automated lawn mower installation - avoid the noise and hassle of mowing altogether by having your very own robot lawnmower installed. 
 
-## Promotion of Lawn Alternatives
+4. Lawn alternatives - reducing lawn area, alternative groundcovers and drought-tolerant landscaping. Many options exist for those wanting to avoid the maintenance and costs associated with lawns altogether. 
 
-We understand that traditional lawns may not be suitable for every property or environmentally conscious homeowner. That's why we offer expert guidance and support in exploring alternative landscaping options that reduce water consumption, chemical usage, and maintenance requirements. Whether you're interested in native plantings, ground covers, or drought-tolerant landscaping, we'll work with you to create a sustainable outdoor space that reflects your values and enhances the beauty of your property.
 
-## Transform Your Lawn, Transform the Environment
-
-By choosing Sandy's Gardening and Landscape Design for your lawn care needs, you're not just investing in a beautiful lawn – you're also contributing to a greener, healthier planet. Join us in our mission to promote sustainable landscaping practices and create outdoor spaces that benefit both people and the environment.
-
-Contact us today to learn more about our environmentally friendly lawn care services and take the first step towards a more sustainable outdoor oasis.
+Contact us today to learn more about our lawn care services and take the first step towards a lush more vibrant lawn. 

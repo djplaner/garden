@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Gardening
 
-A brilliant CTA goes here. Sometime soon.
+At Sandy's Gardening and Landscape Design we cover a wide range of gardening services. From mowing to holiday care we've got you covered. 
