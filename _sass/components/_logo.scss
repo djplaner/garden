@@ -34,7 +34,13 @@
     float: left;
   }
   .logo-name {
+    padding-top: 6px;
     font-size: small;
     color: black;
     line-height: 0.9rem;
+    text-decoration: none;
+  }
+  .logo-name > a {
+    color: #51be37;
+    text-decoration: none;
   }

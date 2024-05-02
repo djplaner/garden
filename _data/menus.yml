@@ -5,18 +5,18 @@ main:
   - name: "Design"
     url: "/design/"
     weight: 3
-  - name: "Team"
-    url: "/team/"
-    weight: 4
+#  - name: "Team"
+#    url: "/team/"
+#    weight: 4
   - name: "Projects"
     url: "/projects/"
-    weight: 5
+    weight: 4
   - name: "About"
     url: "/about/"
-    weight: 6
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 7
+    weight: 6
 
 footer:
   - name: "Home"

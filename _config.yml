@@ -15,6 +15,9 @@ home:
   limit_services: 6
 
 collections:
+  projects:
+    output: true
+    sort_by: weight
   designs:
     output: true
     sort_by: weight
@@ -37,6 +40,11 @@ defaults:
       type: "designs"
     values:
       layout: "design"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
   - scope:
       path: ""
       type: "team"
