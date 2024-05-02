@@ -10,20 +10,18 @@ Welcome to Sandy's Gardening and Landscape Design, where our passion for ensurin
 ## Locations
 For our on-site gardening services we proudly serve the following areas: 
 
-1) Toowoomba - including Middle Ridge, Kearney's Springs, Mount Lofty, Harristown, Rangeville, Centenary Heights, East Toowoomba,South Toowoomba, Toowoomba City.
-
-2) Lockyer Valley - including Withcott, Postman's Ridge, Helidon
+- Toowoomba - including Middle Ridge, Kearney's Springs, Mount Lofty, Harristown, Rangeville, Centenary Heights, East Toowoomba,South Toowoomba, Toowoomba City.
+- Lockyer Valley - including Withcott, Postman's Ridge, Helidon
 
 
 Our Holiday Care service (see *note below) extends these areas to include:
 
-3) Brisbane - including New Farm, Bulimba, Auchenflower, Chelmer, St Lucia, Fig Tree Pocket and Western Suburbs 
+- Brisbane - including New Farm, Bulimba, Auchenflower, Chelmer, St Lucia, Fig Tree Pocket and Western Suburbs 
 
 
 Our Design Service reaches further afield to:
 
-4) South East Queensland - including Brisbane, Gold Coast, Sunshine Coast 
-
-5) and beyond... 
+- South East Queensland - including Brisbane, Gold Coast, Sunshine Coast 
+- and beyond... 
  
 *The geographical region for our Holiday Care and Design services depends on individual requests and the unique requirements of each garden and project.

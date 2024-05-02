@@ -75,32 +75,36 @@ bodyClass: "page-home"
   </div>
 </div>
 
-
-{% if site.data.comments %}
-<div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-center">
-
-      {% assign c_limit = site.comments.limit_comments | default: 6 %}
-      {% for comment in site.comments limit: c_limit %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="comment">
-          {% if comment.image %}
-          <div class="comment-image"><img alt="{{ comment.title }} logo" src="{{ comment.image.url | relative_url }}"
-              width="{{ comment.image.width }}" height="{{ comment.image.height }}" /></div>
-          {% endif %}
-          <h2 class="comment-title">{{ comment.title }}</h2>
-          <div class="comment-content">{{ comment.description }}</div>
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <h1>Projects</h1>
+    <div class="row justify-content-start">
+      {% assign limit = site.home.limit_services | default: 6 %}
+      {% for project in site.projects limit: limit %}
+      <div class="col-12 col-md-4 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+            </h2>
+            <p>{{ project.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+          </div>
         </div>
       </div>
       {% endfor %}
-
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ "projects" | relative_url }}">View all projects</a>
+      </div>
     </div>
   </div>
 </div>
-{% endif %}
+
+
 
 {% if site.data.features %}
+<!-- 
 <div class="strip">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
@@ -108,10 +112,10 @@ bodyClass: "page-home"
       {% for feature in site.data.features %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
-<!--          {% if feature.image %}
+          {% if feature.image %}
           <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}"
               width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
-          {% endif %} -->
+          {% endif %} 
           <h2 class="feature-title">{{ feature.title }}</h2>
           <div class="feature-content">{{ feature.description }}</div>
         </div>
@@ -120,5 +124,5 @@ bodyClass: "page-home"
 
     </div>
   </div>
-</div>
+</div> -->
 {% endif %}
