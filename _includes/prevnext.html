@@ -1,0 +1,56 @@
+<!--
+ Copyright (C) 2024 David Jones
+ 
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Affero General Public License as
+ published by the Free Software Foundation, either version 3 of the
+ License, or (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Affero General Public License for more details.
+ 
+ You should have received a copy of the GNU Affero General Public License
+ along with this program.  If not, see <https://www.gnu.org/licenses/>.
+-->
+
+
+<!-- ad[oa]pted from http://stories.upthebuzzard.com/jekyll_notes/2017-02-19-prev-and-next-within-a-jekyll-collection.html 
+  - added use of "relative_url" filter
+  - replaced NEXT/PREV with page titles
+-->
+
+{% if page.collection %}
+  {% assign posts = site[page.collection] %} <!-- | where:"layout", "post" | sort: 'date' %} -->
+
+  {% if posts.size > 1 %}
+    {% assign prevurl = posts.last.url %}
+    {% assign prevTitle = posts.last.title %}
+    {% assign nexturl = posts.first.url %}
+  {% endif %}
+
+  {% for links in posts %}
+    {% if links.title == page.title %}
+      {% unless forloop.first %}
+        {% assign prevurl = prev.url %}
+        {% assign prevTitle = prev.title %}
+      {% endunless %}
+      {% unless forloop.last %}
+        {% assign next = posts[forloop.index] %}
+        {% assign nexturl = next.url %}
+        {% assign nextTitle = next.title %}
+      {% endunless %}
+    {% endif %}
+    {% assign prev = links %}
+  {% endfor %}
+
+  <div class="container pt-md-5">
+
+      {% if posts.size > 1 %}
+        {% if prevurl %}<a href="{{prevurl | relative_url }}" class="prev">{{prevTitle }}</a>{% endif %} 
+        |
+        {% if nexturl %}<a href="{{nexturl | relative_url }}" class="nxt">{{ nextTitle }}</a>{% endif %}
+      {% endif %}
+  </div>
+{% endif %}
