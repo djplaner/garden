@@ -1,0 +1,26 @@
+.item {
+  height: 100%;
+  //border: 1px solid $white-offset;
+  border-radius: 3px;
+  padding: 1em;
+  //background-color: $service-background; 
+  color: $service-text;
+}
+
+.item p {
+  //background-color: $item-background; 
+  color: $service-text;
+}
+
+.item-dark {
+  height: 100%;
+  border-radius: 3px;
+  padding: 1em;
+  //background-color: $item-dark-background;
+  color: $service-dark-text;
+}
+
+.item-dark p {
+  //background-color: $item-dark-background;
+  color: $service-dark-text;
+}

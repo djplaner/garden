@@ -1,10 +1,24 @@
 <div id="main-menu" class="main-menu">
   {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
+  {% assign parts = page.url | split: '/' | shift %}
+  {% assign pageCollection = parts | first %}
   <ul>
     {% for item in mainmenu %}
+      {% assign parts = item.url | split: '/' | shift %}
+      {% assign collection = parts | first %}
+      {% if item.url == page.url || collection == pageCollection %}
+      {% assign cssClass = "active" %}
+      {% endif %}
     <li class="{% if item.url == page.url %}active{% endif %}">
-      <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+      {% if collection == pageCollection %}
+      <span class="garden-current-collection">
+        {{ item.name }}
+      </span>
+      {% else %}
+        <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
 </div>
+

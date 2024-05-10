@@ -1,0 +1,26 @@
+.garden-previous {
+  display: flex;
+  float: left;
+  padding: 0.5rem;
+  i {
+    padding-top:0.1rem;
+    color: rgb(108,34,166);
+  }
+}
+
+.garden-next {
+  display: flex;
+  float: right;
+  padding: 0.5rem;
+
+  i {
+    padding-top:0.1rem;
+    color: rgb(108,34,166);
+  }
+}
+
+.garden-next-previous {
+/*  display: flex;
+  justify-content: space-between; */
+  padding-bottom:2rem;
+}
