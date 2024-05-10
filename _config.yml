@@ -18,7 +18,7 @@ collections:
   projects:
     output: true
     sort_by: weight
-  designs:
+  design:
     output: true
     sort_by: weight
   gardening:
@@ -39,9 +39,9 @@ defaults:
 #      layout: "service"
   - scope:
       path: ""
-      type: "designs"
+      type: "design"
     values:
-      layout: "design"
+      layout: "design-service"
   - scope:
       path: ""
       type: "projects"

@@ -1,6 +1,6 @@
 ---
 title: Design
-layout: designs
+layout: design
 description: Design 
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true

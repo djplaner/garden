@@ -54,7 +54,7 @@ bodyClass: "page-home"
     <h1>Design</h1>
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
-      {% for design in site.designs limit: limit %}
+      {% for design in site.design limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service-dark service-summary">
           <div class="service-content">
