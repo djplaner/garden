@@ -6,17 +6,12 @@
     {% for item in mainmenu %}
       {% assign parts = item.url | split: '/' | shift %}
       {% assign collection = parts | first %}
-      {% if item.url == page.url || collection == pageCollection %}
-      {% assign cssClass = "active" %}
+      {% assign cssClass="" %}
+      {% if item.url == page.url or collection == pageCollection %}
+        {% assign cssClass = "active" %}
       {% endif %}
-    <li class="{% if item.url == page.url %}active{% endif %}">
-      {% if collection == pageCollection %}
-      <span class="garden-current-collection">
-        {{ item.name }}
-      </span>
-      {% else %}
+    <li class="{{ cssClass }}">
         <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
-      {% endif %}
     </li>
     {% endfor %}
   </ul>
