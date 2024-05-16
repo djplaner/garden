@@ -41,3 +41,18 @@ Run the site locally for testing
 - [Queensland Gardening Services - Nerang QLD](https://www.serviceseeking.com.au/profile/91322-queensland-gardening-services)
 - [Gardening & Maintenance Brisbane](https://queenslandhorticulture.com.au/our-services/garden-maintenance/)
 - [Gardening Services Brisbane - Lawns, Weeds, Hedges & Clean Ups](https://www.greenteambrisbane.com.au/)
+
+
+## Domain name configuration 
+
+[Managing a custom domain for your GH pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+
+1. [Verify your custom domain for GH Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)
+2. Add custom domain to your GH pages site 
+3. Configure your custom domain with your DNS provider
+4. Follow the instructions 
+
+## Custom email 
+
+- [Google workspace](https://workspace.google.com/solutions/business-email/)
+    - [$8.40 per user per month](https://workspace.google.com/pricing.html), includes business email
