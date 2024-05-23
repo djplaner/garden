@@ -47,7 +47,7 @@ Run the site locally for testing
 
 [Managing a custom domain for your GH pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 
-1. [Verify your custom domain for GH Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)
+1. [Verify your custom domain for GH Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages) -- **DONE**
 2. Add custom domain to your GH pages site 
 3. Configure your custom domain with your DNS provider
 4. Follow the instructions 
