@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/'
 permalink: pretty
 title: "Sandy's Gardening & Landscape Design"
 remote_theme: "zerostaticthemes/jekyll-serif-theme"

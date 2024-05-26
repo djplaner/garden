@@ -4,12 +4,9 @@ date: 2024-03-28T07:47:16+10:00
 weight: 1
 ---
 
-Functional (septic drainage ditch) and aesthetic (French Formal) garden design for an ex-market garden property.
+When the septic backed up, the garden had to change. A personal project designing a garden to fit with the property's new French Formal style and to support a new evapo-transpiration bed for the septic system.
 
-Originally a market garden serving the Toowoomba and Gatton region
-Duck Meadows - named for the flocks of ducks visiting the property's dam and surrounding meadows - was originally a market garden serving Toowoomba and Gatton. When we arrived, Duck Meadows' best days were behind it. Both the homestead and the grounds were in need of renovation. 
-
-_something about the French Formal style for the house and gardens_
+Originally a market garden serving the Toowoomba and Gatton region _Duck Meadows_ - named for the flocks of ducks visiting the property's dam and surrounding meadows - is our home. When we arrived, Duck Meadows' best days were behind it. Both the homestead and the grounds were in need of renovation ... then the septic system backed up.
 
 # Before and after
 
