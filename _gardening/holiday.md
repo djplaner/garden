@@ -4,7 +4,7 @@ date: 2019-06-18T12:33:46+10:00
 weight: 6
 ---
 
-Enjoy your holiday and leave the stress of looking after your garden behind. Whether it's delicate ferns needing extra attention or simply the reassurance of regular check-ins, our Holiday Care service has you covered. 
+ Stressed about leaving your garden behind? Hate having to ask friends or family to look after things while you're away? At Sandy's Gardening & Landscape Design we take the hassle out of holidays. Whether it's delicate ferns needing extra attention or simply the reassurance of regular check-ins, know that when you go on holiday your garden is in good hands.
 
 Here's how our Holiday Care service keeps your garden thriving while you're away:
 
@@ -14,4 +14,7 @@ Here's how our Holiday Care service keeps your garden thriving while you're away
 
 3. Regular updates. We believe in open communication, and will provide you with regular updates on the health and appearance of your garden every step of the way. 
 
-Don't let travel plans hinder the beauty of your outdoor space — trust us to keep your garden thriving while you're away. Contact us today to schedule your holiday care service. 
+Don't let your garden put a dampener on your travel plans.
+Contact us today. 
+
+Note - we also provide full house-sitting and pet-minding services on request. 

@@ -4,8 +4,9 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Shh!... hear that? Probably not. Our battery powered equipment means less noise and more peace for you and your neighbours. We provide a quieter, less disruptive mowing service. Moreover, our self-mulching lawn-mowers promote a healthier lawn by adding precious nutrients back the soil where they are needed the most. Enjoy a lush more vibrant lawn without disturbing the peace. 
+Shh!... hear that? Probably not. That's the sound our battery powered equipment makes when mowing your lawn. We provide a quieter, less disruptive mowing service for you and your neighbours. Moreover, our self-mulching lawn-mowers promote a healthier lawn by adding precious nutrients back the soil where they are needed the most. Enjoy a lush more vibrant lawn without disturbing the peace. 
 
+<photo here>
 Some key points of our mowing service:
 
 1. Eco-friendly equipment - we rely exclusively on the use of battery-powered equipment. Reducing emissions and noise pollution in residential areas is important to us. 
