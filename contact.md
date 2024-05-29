@@ -4,13 +4,15 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+My gardening appointment hours are set out in the table below. While I will make every effort to take your call I may be busy in the garden - either my own or someone else's. If you leave your contact details I will call you back as soon as I can. Alternatively, if email works just as well for you then please contact me via email.
 
-| Day       | Opening Hours   |
+
+| Day       | Gardening Service Hours   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
+| Monday   | 7:30am - 4:00pm |
+| Tuesday   | 7:30am - 4:00pm |
+| Wednesday | 7:30am - 4:00pm |
+| Thursday  | 7:30am - 4:00pm |
+| Friday    | 7:30am - 4:00pm |
+| Saturday  | Closed  |
 | Saturday  | Closed          |
