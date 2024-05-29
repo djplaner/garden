@@ -1,3 +1,11 @@
+.footer-link {
+  color: $footer-text-color;
+  text-decoration: none;
+  &:hover { 
+    text-decoration: underline;
+  }
+}
+
 .footer {
   background: $footer-background-color;
   padding-top: 15px;
@@ -11,13 +19,6 @@
       justify-content: space-between;
       flex-direction: row;
       align-items: center;
-    }
-  }
-  .footer-link {
-    color: $footer-text-color;
-    text-decoration: none;
-    &:hover { 
-      text-decoration: underline;
     }
   }
   .footer-title {
