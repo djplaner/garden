@@ -43,16 +43,29 @@ Run the site locally for testing
 - [Gardening Services Brisbane - Lawns, Weeds, Hedges & Clean Ups](https://www.greenteambrisbane.com.au/)
 
 
-## Domain name configuration 
 
-[Managing a custom domain for your GH pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+## Responsive images
 
-1. [Verify your custom domain for GH Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages) -- **DONE**
-2. Add custom domain to your GH pages site 
-3. Configure your custom domain with your DNS provider
-4. Follow the instructions 
 
-## Custom email 
+| Tag | size | w | Description |
+| --- | ----- | ----------- |
+| xl | > 1200px | 1200w | Extra large desktop |
+| lg | 992px - 1200px | 900w | Large desktop |
+| md | 600 | 600w | Tablet |
+| sm | 300 | 300w | Mobile |
 
-- [Google workspace](https://workspace.google.com/solutions/business-email/)
-    - [$8.40 per user per month](https://workspace.google.com/pricing.html), includes business email
+
+'''html
+
+<img 
+  src="/images/{{ page.hero_image }}"
+  srcset="images/{{ page.hero_image }}-sm.jpg 300w,
+    images/{{ page.hero_image }}-md.jpg 900w,
+    images/{{ page.hero_image }}-lg.jpg 900w,
+    images/{{ page.hero_image }}-xl.jpg 1200w"
+  sizes="(max-width: 640px) 100vw,
+    (max-width: 960px) 80vw,
+    60vw" 
+  alt="{{ page.hero_alt }}">
+
+''' 

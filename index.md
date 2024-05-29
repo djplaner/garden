@@ -3,7 +3,9 @@ title: Sandy's Gardening
 layout: home
 description: Business site for Sandy's Gardening and Landscape Design.
 inXXtro_image: "images/rainbow-cropped.jpg"
-hero_image: "images/rainbow-hero.jpg"
+hXXero_image: "images/rainbow-hero.jpg"
+hero_image: "rainbow-hero"
+hero_alt: "Formal garden grass square with small fountain surrounded by flowers with roses in the foreground"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
