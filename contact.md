@@ -16,3 +16,8 @@ My gardening appointment hours are set out in the table below. While I will make
 | Friday    | 7:30am - 4:00pm |
 | Saturday  | Closed  |
 | Saturday  | Closed          |
+
+
+## Site test
+
+URL is {{ site.url }}
