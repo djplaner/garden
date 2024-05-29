@@ -11,36 +11,38 @@ I live in Postman's Ridge in the Valley just east of Toowoomba with my husband, 
 
 ## My Services
 
-Here at Sandy's Gardening & Landscape Designs I offer a full and comprehensive range of services, from general garden maintenance to full-scale design and 'builds'. While my services cover a full and diverse range (yes I even offer holiday care too!) they are all a reflection of who I am and my core set of values. I am passionate about the planet and just as passionate about the notion of superior service. Therefore, in every service I provide I'm always thinking of how I can make it more sustainable and eco-friendly. I also place the highest value on giving and receiving exceptional customer service.  Perhaps both of these passions are fitting given that - at least according to Wikipedia - the name Sandy is often associated with those who are protective and have a 'natural inclination to assist others'. 
+Here at Sandy's Gardening & Landscape Designs I offer a full and comprehensive range of services, from general garden maintenance to full-scale design and 'builds'. While my services cover a full and diverse range (yes I even offer holiday care too!) they are all a reflection of who I am and what I believe are important in relation to gardening and landscaping. 
+
+I am passionate about the planet and just as passionate about the notion of superior service. Therefore, in every service I provide I'm always thinking of how I can make it more sustainable and eco-friendly. I also place the highest value on giving and receiving exceptional customer service.   
 
 ## About Me
 
-Born and raised in rural (and sometimes remote) Queensland Australia I've always had a strong connection to the land. A common refrain of mine, even now in very middle age (okay I'm being very generous to myself) is that 'I don't know what I want to be when I grow up'. 
+Born and raised in regional, rural (and sometimes remote) Queensland, Australia I've always had a strong connection to the land. A common refrain of mine, even now in middle age (okay I'm being very generous to myself) is that 'I don't know what I want to be when I grow up'. 
 
 I've pursued careers in a range of different industries: hospitality (a fine dining waitress and barmaid), health and fitness (a personal fitness trainer), Information Technology (a programmer), academia (lecturer) and engineering (civil/structural). 
 
-As a side hustle to these careers I have, amongst other things, operated a small beef cattle property with my husband, broken in horses and had a very short stint as a real estate agent (don't even ask how that went). More recently, my husband and I have been, and continue to be, involved in the ongoing task of renovating the homestead and grounds of Duck Meadows.
+As a side 'hustle' to these careers I have, amongst other things, operated a small beef cattle property (yes, I see the irony) with my husband, broken in horses and even been a mystery shopper. More recently, my husband and I have been, and continue to be, involved in the ongoing task of renovating the homestead and grounds of Duck Meadows.
 
 Currently, I'm very happy to say that I'm following (or perhaps indulging is more correct) my passion in plants. I am very grateful to be doing what I love - maintaining and building beautiful gardens - and helping others in the process.
 
 ## My Clients
 
+I have been, and continue to be, very fortunate with the people I have worked for, and with, in my business. My clients range from busy professionals such as Narelle <link here> to equally busy retirees such as Cherryl <see link here>. Some of my clients, like Narelle, are new to gardening. Others like Cherryl, have had years of experience. However, regardless of whether they are 'newbies' or 'old hands' I am genuinely always learning from them - about plants, gardening and life! 
 
+One thing my clients all have in common is a desire to have their garden looking their absolute best. Which is great, because it's what I want too! This is why I consider my relationship with my clients as a partnership. Sometimes this means taking a leading role and sometimes it means I'm in more of a supporting role. Regardless of how involved I am and what role I take I'm passionate about providing the best level of service and help that I can. 
 
+In addition to residential services I also partner with both commercial and non-profit organisations. For example, I am proud to be a licensed sub-contractor for Feros Care <link here> a not-for-profit aged care and disability support provider. 
 
-  Welcome to Sandy's Gardening and Landscape Design, where our passion for ensuring your garden looks it's absolute best matches yours. Through proven environmentally friendly practices and techniques, we specialise in creating stunning outdoor spaces while prioritising the planet's well-being. We offer a comprehensive range of services, from general garden maintenance to full-scale 'builds' that cover every aspect of the project, from initial design to final completion. Whether you're dreaming of a serene garden oasis or reclaiming your backyard wilderness, we've got your gardening and landscaping needs covered.
-
-## Locations
+## Locations/Services Areas
 For our on-site gardening services we proudly serve the following areas: 
 
-- Toowoomba - including Middle Ridge, Kearney's Springs, Mount Lofty, Harristown, Rangeville, Centenary Heights, East Toowoomba,South Toowoomba, Toowoomba City.
-- Lockyer Valley - including Withcott, Postman's Ridge, Helidon
 
+| Location       | Suburb/Area   |
+| --------- | --------------- | --------------- |
+| Toowoomba | Middle Ridge, Kearney's Springs, Mount Lofty, Harristown, Rangeville, Centenary Heights, East and South Toowoomba (other areas on request) |
+Lockyer Valley | Withcott, Postman's Ridge |
 
-Our Holiday Care service (see *note below) extends these areas to include:
-
-- Brisbane - including New Farm, Bulimba, Auchenflower, Chelmer, St Lucia, Fig Tree Pocket and Western Suburbs 
-
+Our Holiday Care services extends the above areas on request.
 
 Our Design Service reaches further afield to:
 
