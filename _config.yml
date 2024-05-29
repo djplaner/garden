@@ -11,6 +11,9 @@ logo:
   desktop_height: "32px"
   desktop_width: "35px"
 
+plugins:
+  - "jekyll-github-metadata"
+
 home: 
   limit_services: 6
 
