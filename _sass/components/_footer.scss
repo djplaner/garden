@@ -13,6 +13,13 @@
       align-items: center;
     }
   }
+  .footer-link {
+    color: $footer-text-color;
+    text-decoration: none;
+    &:hover { 
+      text-decoration: underline;
+    }
+  }
   .footer-title {
     color: #ffffff;
     font-size: 1.3rem;
