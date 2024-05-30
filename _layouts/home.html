@@ -6,7 +6,20 @@ bodyClass: "page-home"
 <div class="top-banner-section">
   {% if page.hero_image %}
   <div class="banner-image-div">
-    <img alt="{{ page.title }}" class="banner-image" src="{{ page.hero_image }}" />
+<!--    <img alt="{{ page.hero_alt }}" class="banner-image" 
+        src="/images/{{ page.hero_image }}" /> -->
+
+        <img 
+        src="/images/{{ page.hero_image }}"
+        srcset="
+          images/{{ page.hero_image }}-sm.jpg 400w,
+          images/{{ page.hero_image }}-sm.jpg 600w,
+          images/{{ page.hero_image }}-lg.jpg 900w,
+          images/{{ page.hero_image }}.jpg 1200w"
+        sizes="(max-width: 640px) 100vw,
+          (max-width: 960px) 80vw,
+          60vw" 
+        alt="{{ page.hero_alt }}">
   </div>
   {% endif %}
   <div class="banner-overlay-div"></div>
