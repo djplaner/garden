@@ -7,7 +7,11 @@ bodyClass: page-about
 
 Hi, I'm Sandy and welcome to my website for Sandy's Gardening & Landscape Design. I provide gardening services for those in the Toowoomba and Lockyer Valley area as well as landscape design services over a much larger geographical area. 
 
-I live in Postman's Ridge in the Valley just east of Toowoomba with my husband, mum, youngest son and Rex our very spoilt German Shepherd. I am a self-confessed plant addict - the type of person that ducks out for a few things at the shop and comes back laden with a car boot full of different plants and none of the things I originally went out to get.  The type of person who tries to sneakily unload the back of the car before their husband can offer the refrain 'More plants?!!!'. Yes, I am *that* person.
+I live in Postman's Ridge in the Valley just east of Toowoomba with my husband, mum, youngest son and Rex our very spoilt German Shepherd. 
+![](../../images/about/rex_and_david_optimised.jpg)
+
+I am a self-confessed plant addict - the type of person that ducks out for a few things at the shop and comes back laden with a car boot full of different plants and none of the things I originally went out to get.  The type of person who tries to sneakily unload the back of the car before their husband can offer the refrain 'More plants?!!!'. Yes, I am *that* person.
+
 
 ## My Services
 
@@ -24,10 +28,12 @@ I've pursued careers in a range of different industries: hospitality (a fine din
 As a side 'hustle' to these careers I have, amongst other things, operated a small beef cattle property (yes, I see the irony) with my husband, broken in horses and even been a mystery shopper. More recently, my husband and I have been, and continue to be, involved in the ongoing task of renovating the homestead and grounds of Duck Meadows.
 
 Currently, I'm very happy to say that I'm following (or perhaps indulging is more correct) my passion in plants. I am very grateful to be doing what I love - maintaining and building beautiful gardens - and helping others in the process.
-
+![](../../images/about/me_wheelbarrow_optimised.jpg)
 ## My Clients
 
-I have been, and continue to be, very fortunate with the people I have worked for, and with, in my business. My clients range from busy professionals such as Narelle <link here> to equally busy retirees such as Cherryl <see link here>. Some of my clients, like Narelle, are new to gardening. Others like Cherryl, have had years of experience. However, regardless of whether they are 'newbies' or 'old hands' I am genuinely always learning from them - about plants, gardening and life! 
+I have been, and continue to be, very fortunate with the people I have worked for, and with, in my business. My clients range from busy professionals such as Narelle <link here> to equally busy retirees such as Cherryl <see link here>. Some of my clients, like Narelle, are new to gardening. Others like Cherryl (pictured below with Perry helping), have had years of experience. However, regardless of whether they are 'newbies' or 'old hands' I am genuinely always learning from them - about plants, gardening and life!
+
+![](../../images/about/cherryl_and_perry_optimised.jpg)
 
 One thing my clients all have in common is a desire to have their garden looking their absolute best. Which is great, because it's what I want too! This is why I consider my relationship with my clients as a partnership. Sometimes this means taking a leading role and sometimes it means I'm in more of a supporting role. Regardless of how involved I am and what role I take I'm passionate about providing the best level of service and help that I can. 
 
