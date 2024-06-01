@@ -54,8 +54,18 @@ Run the site locally for testing
 | md | 600 | 600w | Tablet |
 | sm | 300 | 300w | Mobile |
 
+Rainbow
 
-'''html
+| filename | w | 
+| --- | --- |
+| rainbow-hero.jpg | 1200 |
+| rainbow-hero-lg.jpg | 900 |
+| rainbow-hero-md.jpg | 600 |
+| rainbow-hero-sm.jpg | 300 |
+
+
+
+```html
 
 <img 
   src="/images/{{ page.hero_image }}"
@@ -68,4 +78,108 @@ Run the site locally for testing
     60vw" 
   alt="{{ page.hero_alt }}">
 
-''' 
+``` 
+
+## To do
+
+General design
+
+- check the size of the content images
+
+- is there a better design for content images (including a caption)
+
+- "scrolling" page design
+
+    2nd level pages, rather than a background banner image allow for the content to scroll over it.
+
+    - make this change to all the 2nd level pages
+
+- Should/can 3rd level pages have background images? or images placed somewhere else on the page
+
+    Play around with the mowing bird photo placed into the content to break it up, rather than as a background
+
+- 3rd level header design
+
+    - Possible to include the name of the collection into the header/navigation for the items in the collection?
+
+- Decide on whether or not the business name should be used in content, rather than "we"
+
+- Make all the "contact us" (e.g. gardening services) into links to the contact page
+
+- Develop an internal links style for longer pages
+
+    - About
+    - Project pages
+
+- Consider developing a table style
+
+
+Home Page
+
+- "View all Design" add "services"
+
+Gardening 
+
+- Mowing 
+
+    Ensure the numbered list is a numbered list
+- Weeding
+
+    - More content for the description
+    - Add the arrows back into the next/prev (probably due to the absence of font awesome)
+        Need to look for a low weight way of adding in those icons
+
+- Tree care
+
+    Remove mention of the business name
+
+- Holiday care
+
+    Add in a design for "note"
+
+Design
+
+- Not all services content written
+
+- Approach 
+
+    - Typo "WOrking closely with **your**"
+
+- Process
+
+    - write intro 
+    - Need to remove the references to other sites (and stealing their content)
+
+- Options
+
+    - Does this get rolled into "approach"
+
+- Example styles 
+
+    - Should this be earlier?
+
+Projects 
+
+- Duck Meadows 
+
+    - Accept the suggestion
+    - the before image is missing
+    - remove the "refs" at the bottom of the page??
+
+- Narelle's 
+
+    - re-write the intro
+    - superscript with m^2
+    - get images from Sandy
+
+About 
+
+    - rewrite - remove business name
+    - add links to web pages
+    - not so much "full and"
+
+Contact
+
+- update page design
+- Remove "site test" section
+
