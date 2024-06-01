@@ -38,7 +38,7 @@ bodyClass: "page-home"
 
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
-    <h1>Gardening</h1>
+    <h1>Gardening Services</h1>
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
       {% for garden in site.gardening limit: limit %}
@@ -64,7 +64,7 @@ bodyClass: "page-home"
 
 <div class="strip-dark">
   <div class="container pt-6 pb-6 pb-md-10">
-    <h1>Design</h1>
+    <h1>Design Services</h1>
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
       {% for design in site.design limit: limit %}
@@ -82,7 +82,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "design" | relative_url }}">View All Design</a>
+        <a class="button button-primary" href="{{ "design" | relative_url }}">View All Design Services</a>
       </div>
     </div>
   </div>

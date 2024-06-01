@@ -4,24 +4,17 @@ date: 2024-03-28T07:47:16+10:00
 weight: 1
 ---
 
-_suggestion_
-
 When the septic backed up, a garden re-design helped. A personal project re-designing the garden to fit with the property's new French Formal style and to support the new septic's evapotranspiration bed.
 
 Originally a market garden serving the Toowoomba and Gatton region _Duck Meadows_ - named for the flocks of ducks visiting the property's dam and surrounding meadows - is our home. When we arrived, Duck Meadows' best days were behind it. Both the homestead and the grounds were in need of renovation ... then the septic system backed up.
 
-_end suggestion_
-
-Functional (evapotranspiration bed septic system) and aesthetic (French Formal) garden design for an ex-market garden property.
-
-Originally a market garden serving the Toowoomba and Gatton region Duck Meadows - named for the flocks of ducks visiting the property's dam and surrounding meadows - was originally a market garden serving Toowoomba and Gatton. When we arrived, Duck Meadows' best days were behind it. Both the homestead and the grounds were in sore need of repair and renovation. 
-
-
-# Before and after
+# Before
 
 The photo below from the real estate agent shows the property before we bought it. The house was uninhabitable and the grounds largely neglected.
 
-![](/garden/images/projects/duck_meadows/real_estate_photos/1_Connoles_Rd_Back_Photo_Real_estate_pic_1.jpg)
+![](../../images/projects/duck_meadows/real_estate_photos/1_Connoles_Rd_Back_Photo_Real_estate_pic_1.jpg)
+
+# After
 
 A more recent photo of the property is viewed below. Renovations to the house are ongoing. This section of the grounds show installation of a main square courtyard area surrounded by permeable pathways.
 
@@ -83,5 +76,3 @@ _Ongoing areas for improvement_
 Being on heavy clay soil one area that is in continual need of improvement is soil improvement. We use organic mulch from the property to do so.
 
 ![](../../images/projects/duck_meadows/maintenance/sandy_soil_improve_compressed.JPG)
-
-refs: https://worldlandscapearchitect.com/practice-stages-of-a-landscape-architecture-design-project/?v=3a1ed7090bfa

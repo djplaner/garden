@@ -1,20 +1,3 @@
-<!--
- Copyright (C) 2024 David Jones
- 
- This program is free software: you can redistribute it and/or modify
- it under the terms of the GNU Affero General Public License as
- published by the Free Software Foundation, either version 3 of the
- License, or (at your option) any later version.
- 
- This program is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU Affero General Public License for more details.
- 
- You should have received a copy of the GNU Affero General Public License
- along with this program.  If not, see <https://www.gnu.org/licenses/>.
--->
-
 ## How to 
 
 Install Jekyll (once off)
@@ -84,102 +67,111 @@ Rainbow
 
 General design
 
-- check the size of the content images
+- [ ] check the size of the content images
+- [ ] check the meta data for images
 
-- is there a better design for content images (including a caption)
+- [ ] is there a better design for content images (including a caption)
 
-- "scrolling" page design
+- [ ] "scrolling" page design
 
     2nd level pages, rather than a background banner image allow for the content to scroll over it.
 
-    - make this change to all the 2nd level pages
+    - [ ] make this change to all the 2nd level pages
 
-- Should/can 3rd level pages have background images? or images placed somewhere else on the page
+- [ ] Should/can 3rd level pages have background images? or images placed somewhere else on the page
 
     Play around with the mowing bird photo placed into the content to break it up, rather than as a background
 
-- 3rd level header design
+- [ ] 3rd level header design
 
-    - Possible to include the name of the collection into the header/navigation for the items in the collection?
+    - [ ] Possible to include the name of the collection into the header/navigation for the items in the collection?
 
-- Decide on whether or not the business name should be used in content, rather than "we"
+- [ ] Decide on whether or not the business name should be used in content, rather than "we"
 
-- Make all the "contact us" (e.g. gardening services) into links to the contact page
+- [ ] Make all the "contact us" (e.g. gardening services) into links to the contact page
 
-- Develop an internal links style for longer pages
+- [ ] Develop an internal links style for longer pages (perhaps programatically through Jekyll)
 
-    - About
-    - Project pages
+    - [ ] About
+    - [ ] Project pages
 
-- Consider developing a table style
+- [ ] Consider developing a table style
 
 
 Home Page
 
-- "View all Design" add "services"
+- [x] "View all Design" add "services"
+- [x] change headings for gardening and design to add services
 
 Gardening 
 
-- Mowing 
+- [ ] Mowing 
 
-    Ensure the numbered list is a numbered list
-- Weeding
+    - [x] Ensure the numbered list is a numbered list
+    - [x] add in photo
+        - [ ] Is this the best photo (format wise) for this? Duplicate of gardening
 
-    - More content for the description
-    - Add the arrows back into the next/prev (probably due to the absence of font awesome)
+- [ ] Weeding
+
+    - [ ] More content for the description **sandy**
+    - [ ] Add the arrows back into the next/prev (probably due to the absence of font awesome)
         Need to look for a low weight way of adding in those icons
 
-- Tree care
+- [x] Tree care
 
     Remove mention of the business name
 
-- Holiday care
+- [ ] Holiday care
 
     Add in a design for "note"
 
 Design
 
-- Not all services content written
+- [ ] Not all services content written
 
-- Approach 
+- [x] Approach 
 
-    - Typo "WOrking closely with **your**"
+    - [x] Typo "WOrking closely with **your**"
 
-- Process
+- [ ] Process
 
-    - write intro 
-    - Need to remove the references to other sites (and stealing their content)
+    - [ ] write intro 
+    - [ ] Need to remove the references to other sites (and stealing their content)
 
-- Options
+- [ ] Options
 
-    - Does this get rolled into "approach"
+    - [ ] Does this get rolled into "approach"
 
-- Example styles 
+- [ ] Example styles 
 
-    - Should this be earlier?
+    - [ ] Should this be earlier?
 
 Projects 
 
-- Duck Meadows 
+- [ ] Duck Meadows 
 
-    - Accept the suggestion
-    - the before image is missing
-    - remove the "refs" at the bottom of the page??
+    - [x] Accept the suggestion
+    - [x] the before image is missing
+    - [x] remove the "refs" at the bottom of the page??
 
-- Narelle's 
+- [ ] Narelle's 
 
-    - re-write the intro
-    - superscript with m^2
-    - get images from Sandy
+    - [x] re-write the intro
+    - [x] superscript with m^2
+    - [ ] get images from Sandy
 
 About 
 
-    - rewrite - remove business name
-    - add links to web pages
-    - not so much "full and"
+    - [x] rewrite - remove business name
+    - [x] add links to web pages
+    - [x] not so much "full and"
+    - [ ] Move "locations and services" to other places? Perhaps implement as an include
+
+        - Contact 
+        - Design and gardening services (perhaps these each need to provide some detail)
 
 Contact
 
-- update page design
-- Remove "site test" section
+- [ ] update page design
+- [x] Remove "site test" section
 
