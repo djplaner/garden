@@ -12,7 +12,7 @@ Some key points of our service include:
 
 2. Pest and Disease Management: does every bug, insect or general pest seem to love your favourite plants as much as you do? Blackspot running rampant through your roses? Whether it's a case of aphids or fungal problems let us help you get on top of things without resorting to chemical warfare.
 
-3. Soil Enrichment: at Sandy's Gardening & Landscape Design we recognise that if there is any real 'secret' to a great garden it's even greater soil. We employ a number of eco-friendly techniques that replenish nutrients and promote soil health ensuring your garden looks great year round - secret or no secret.
+3. Soil Enrichment: we recognise that if there is any real 'secret' to a great garden it's even greater soil. We employ a number of eco-friendly techniques that replenish nutrients and promote soil health ensuring your garden looks great year round - secret or no secret.
 
 
 Contact us today to see what we can do to get your garden beds looking and staying their absolute best.
