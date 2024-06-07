@@ -50,14 +50,15 @@ Only after this was completed did we put in new seedlings and apply mulch. In th
 ![](../../images/projects/narelle/memorial_bed_planted_mulched.jpg)
 
 # The Process
-Narelle is taking a gradual approach to her garden restoration. Rather than having everything done at once she has decided - both to budget and other reasons - to approach the restoration as a long term project. This has allowed her to take the time to really figure out what she would like to happen in her garden and - among other things - some space to think about areas she might like to change (plantings etc.). All the time however, we are gaining control over the most pressing issues - over-run garden beds!   
+Narelle is taking a gradual approach to her garden restoration. Rather than having everything done at once she has decided to approach the restoration as a long term project. This has allowed her to take the time to really figure out what she would like to happen in her garden and - among other things - some space to think about areas she might like to change (plantings etc.). All the time however, we are gaining control over the most pressing issues - over-run garden beds!   
 
 # Highlights
 One of the areas Narelle is particularly happy with is the state of her roses: "They've never looked so good. Not even when I moved in have I seen them like this!'
 
-picture... coming...
+![](../../images/projects/narelle/single_red_rose.jpg)
 
 While Narelle admits to not being 'much of a gardener' another area of great satisfaction with her garden renovation was in plant selection. Choosing plants (with some guidance) that she particularly liked for each area allowed her to put her own stamp on the garden and make it uniquely hers. Shown below are the Angelonias and Gerberas she chose for the side of her laundry.
 
-picture... coming...
+![](../../images/projects/narelle/gerbera_angelonia.jpg)
+
 
