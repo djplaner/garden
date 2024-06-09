@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-Hi, I'm Sandy and welcome to Sandy's Gardening & Landscape Design. I provide gardening services for those in the Toowoomba and Lockyer Valley area as well as landscape design services over a much larger geographical area. 
+Hi, I'm Sandy. My business _Sandy's Gardening & Landscape Design_ provides gardening services for those in the Toowoomba and Lockyer Valley area. We also provide landscape design services over a much larger geographical area. 
 
 I live in Postman's Ridge in the Valley just east of Toowoomba with my husband, mum, youngest son and Rex our very spoilt German Shepherd. 
 
