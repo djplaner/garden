@@ -67,8 +67,10 @@ Rainbow
 
 General design
 
-- [ ] check the size of the content images
-- [ ] check the meta data for images
+- [x] check the size of the content images
+- [x] check the meta data for images
+
+- [ ] 1st level image re-design to be background
 
 - [ ] is there a better design for content images (including a caption)
 

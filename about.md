@@ -11,11 +11,6 @@ I live in Postman's Ridge in the Valley just east of Toowoomba with my husband, 
 
 ![A German Shepherd being scratched by a man with both laying on a green lawn](../../images/about/rex_and_david_optimised.jpg "Rex being spoiled")
 
-{% figure %}
-Content
-{% endfigure %}
-
-
 I am a self-confessed plant addict - the type of person that ducks out for a few things at the shop and comes back laden with a car boot full of different plants and none of the things I originally went out to get.  The type of person who tries to sneakily unload the back of the car before their husband can offer the refrain 'More plants?!!!'. Yes, I am *that* person.
 
 
