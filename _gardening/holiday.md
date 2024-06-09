@@ -4,7 +4,7 @@ date: 2019-06-18T12:33:46+10:00
 weight: 6
 ---
 
- Stressed about leaving your garden behind? Hate having to ask friends or family to look after things while you're away? At Sandy's Gardening & Landscape Design we take the hassle out of holidays. Whether it's delicate ferns needing extra attention or simply the reassurance of regular check-ins, know that when you go on holiday your garden is in good hands.
+ Stressed about leaving your garden behind? Hate having to ask friends or family to look after things while you're away? We take the hassle out of holidays. Whether it's delicate ferns needing extra attention or simply the reassurance of regular check-ins, know that when you go on holiday your garden is in good hands.
 
 Here's how our Holiday Care service keeps your garden thriving while you're away:
 

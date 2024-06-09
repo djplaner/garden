@@ -1,64 +1,64 @@
 ---
-title: "Narelle's Garden Restoration"
+title: "Narelle's Garden Renovation"
 date: 2024-03-28T07:47:16+10:00
 weight: 2
 ---
 
-_Sexy one sentence purpose for the project_
-
-_A bit more of an abstract for the project_
 A rejuvenation project for an existing cottage-style garden. Reclaiming it's old-world charm and breathing new life into it's forgotten corners. 
 
-A quaint cottage-style garden set on a large suburban block with many established tropical and temperate fruit trees. This 732 m2 When Narelle originally contacted us overwhelmed by the amount of work to be done in her garden. Situated on a large suburban block in suburban Toowoomba the previous owner had a great deal of time to spend in nurturing the cottage garden. However, Narelleher home was bought her house in the garden-city of Toowoomba one of the key reasons she did so was because of the quaint cottage-style garden. One that the previous owner had spent much of her time in. However, due to lack of time the garden became became wild and overgrown. No longer was the garden a source of joy to Narelle but a ///
+When Narelle originally contacted us she was desperate to get some control over her garden. A busy working mum of two adorable fur-babies (2 cats Kimba and Bella) the garden had gradually become over-run with weeds, despite her best attempts. No longer was the garden a source of joy but a constant reminder of all the things that had to be done. 
 
-old world 's original brief was to simply get back some control over a garden that had become overgrown with weeds. In Narelle's own words the garden had become fight back some control over a garden that had become Originally a market garden serving the Toowoomba and Gatton region Duck Meadows - named for the flocks of ducks visiting the property's dam and surrounding meadows - was originally a market garden serving Toowoomba and Gatton. When we arrived, Duck Meadows' best days were behind it. Both the homestead and the grounds were in sore need of repair and renovation. 
+The design brief was simple 'Get it under control!'.
+
 # Before and after
 
-_Describe and show a couple of main before and after photos_
-- memorial bed
-(before - IMG_7773.JPG from front)
-(before - IMG_7774.JPG from side)
-(during - IMG_7781.JPG from side)
-(during - IMG_7782.JPG from front)
-(during - IMG_7805.JPG from front)
-(during - IMG_7804.JPG from side)
-- right hand side of house
-(before - IMG_7945.JPG from front)
-(before - IMG_7946.JPG from back)
-(after - IMG_7949.JPG from back)
-- front rose garden
-(before - IMG_7855.JPG from rhs across to lhs)
-(before - IMG_7783.JPG from lhs across to rhs)
-(before - IMG_7775.JPG from lhs across to rhs)
-(during - IMG_7868.JPG from rhs across to lhs)
-(after - IMG_8189.JPG from rhs across to lhs)
-(after - IMG_8190.JPG from lhs across to rhs)
+A couple of garden areas are shown below to highlight what was achieved (and is ongoing) in Narelle's garden.
+- Front rose garden
 
+Before... The overall impression here is certainly 'unruly' with the roses rather straggly and a clump of Nettle Tree in the lower left hand side. 
+![](../../images/projects/narelle/rose_garden_before.jpg)
+...after. Roses are in much better condition now and blooming well. Nettle Tree has been removed.
+![](../../images/projects/narelle/rose_garden_after.jpg)
 
+- Gravel/concrete walkway (western side of house)
 
+Before... Note the young Jacaranda trees that have come up beside the path (not the best spot for any tree)
+![](../../images/projects/narelle/side_walkway_before.jpg)
+...after. Jacarandas have been removed along with all weeds. 
+![](../../images/projects/narelle/side_walkway_after.jpg)
 
 
 # What was done
 
-_space to describe what was done, possibly with some sub-sections. Each sub-section would have a specific design (intent) and some shots/discussion of progress and maintenance_
+The most pressing issue for Narelle's garden - overall -was getting the garden beds under control. Almost all of them had become over-run with grass (mainly Kikuyu) and various weeds including the Nettle Tree or European Hackberry (Celtis Australis). Some beds had stood up better than others due to previous efforts of mulching - as shown in the memorial bed below.
 
-_if multiple sub-sections, give some abstract here._
+![](../../images/projects/narelle/memorial_bed_front_before.jpg)
 
-## Project 1
+The first step in getting control over the garden beds was to remove all the old mulch (we would be able to reuse much of this) and thoroughly dig the soil over to a depth of 30 cm. 
 
-_some intro to the project_
+![](../../images/projects/narelle/memorial_bed_dug_over.jpg)
 
-### Design brief
+At this step thorough removal of all weeds, grass and sucker roots (Hackberry shown below) was completed. 
 
-### Construction (the names and number of these need to be resolved)
+![](../../images/projects/narelle/hackberry_removal.jpg)
+
+In some sections, additional organic matter (here we used organic sugar cane mulch) and a probiotic as well as seaweed concentrate were incorporated into the soil. This was done to improve the structure and health of the soil for future plantings. Ornamentals had targetted treatments incorporated into the soil at this stage as well. 
+
+Only after this was completed did we put in new seedlings and apply mulch. In the memorial bed Narelle chose some pink and white petunias which were planted. She also had a store of old newspapers which were used and then over the top of this we applied organic sugar cane mulch to a depth of 50 mm.
+![](../../images/projects/narelle/memorial_bed_mulched.jpg)
+
+![](../../images/projects/narelle/memorial_bed_planted_mulched.jpg)
+
+# The Process
+Narelle is taking a gradual approach to her garden restoration. Rather than having everything done at once she has decided to approach the restoration as a long term project. This has allowed her to take the time to really figure out what she would like to happen in her garden and - among other things - some space to think about areas she might like to change (plantings etc.). All the time however, we are gaining control over the most pressing issues - over-run garden beds!   
+
+# Highlights
+One of the areas Narelle is particularly happy with is the state of her roses: "They've never looked so good. Not even when I moved in have I seen them like this!'
+
+![](../../images/projects/narelle/single_red_rose.jpg)
+
+While Narelle admits to not being 'much of a gardener' another area of great satisfaction with her garden renovation was in plant selection. Choosing plants (with some guidance) that she particularly liked for each area allowed her to put her own stamp on the garden and make it uniquely hers. Shown below are the Angelonias and Gerberas she chose for the side of her laundry.
+
+![](../../images/projects/narelle/gerbera_angelonia.jpg)
 
 
-## Upkeep
-
-
-
-
-
-# **OLD original content**
-
-At Sandy's Gardening & Landscape Design, we empower our clients to pursue their dream garden designs while prioritizing environmental responsibility. Our expert team will work closely with you to explore design options that reflect your unique vision and values, whether you're seeking low-maintenance elegance, wildlife-friendly habitats, or water-wise landscapes.
