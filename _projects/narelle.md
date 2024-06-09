@@ -16,15 +16,21 @@ A couple of garden areas are shown below to highlight what was achieved (and is 
 - Front rose garden
 
 Before... The overall impression here is certainly 'unruly' with the roses rather straggly and a clump of Nettle Tree in the lower left hand side. 
+
 ![](../../images/projects/narelle/rose_garden_before.jpg)
+
 ...after. Roses are in much better condition now and blooming well. Nettle Tree has been removed.
+
 ![](../../images/projects/narelle/rose_garden_after.jpg)
 
 - Gravel/concrete walkway (western side of house)
 
 Before... Note the young Jacaranda trees that have come up beside the path (not the best spot for any tree)
+
 ![](../../images/projects/narelle/side_walkway_before.jpg)
+
 ...after. Jacarandas have been removed along with all weeds. 
+
 ![](../../images/projects/narelle/side_walkway_after.jpg)
 
 
