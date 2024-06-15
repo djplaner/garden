@@ -2,9 +2,7 @@
 title: Design
 layout: design
 description: Design 
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+background_image: "/images/projects/duck_meadows/design_sketches/visual_plan_of_problems"
 ---
 
 # Design

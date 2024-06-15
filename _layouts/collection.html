@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/png" href="{{ '/images/logo/sandy-logo.svg' | relative_url }}">
+  <!-- Google Fonts CDN -->
+  <!-- Self host font -->
+  <link rel="preload" href="{{ '/assets/fonts/playfair-display.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin> 
+  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+  
+  {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
+  {% if page.meta_title %}<meta property="og:title" content="{{ page.meta_title }}"/>{% else %}<meta property="og:title" content="{{ page.title }}"/>{% endif %}
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="{{ url }}"/>
+  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}"/>{% endif %}
+  {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
+  <meta name="twitter:card" content="summary"/>
+  {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
+  {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
+
+  <style type="text/css">
+
+  #wrapper {
+    text-align: center;
+    background: url({{page.background_image}}.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+  @media only screen and (max-width: 767px) {
+    #wrapper {
+      background-image: url("{{page.background_image}}-sm.jpg");
+    }
+  }
+
+
+/* 
+/images/gardening/{{ page.hero_image }}-sm.jpg 400w,
+      /images/gardening/{{ page.hero_image }}-sm.jpg 600w,
+      /images/gardening/{{ page.hero_image }}-lg.jpg 900w,
+      /images/gardening/{{ page.hero_image }}.jpg 1200w" sizes="(max-width: 640px) 100vw,
+      (max-width: 960px) 80vw, 
+      */
+  </style>
+
+
+</head>
+
+<body class='page {{layout.bodyClass}}'>
+  {% include main-menu-mobile.html %}
+  <div id="wrapper" class="wrapper">
+    {% include header.html headerClass='header-extra' %}
+    {{content}}
+  </div>
+  {% include footer.html %}
+  {% include sub-footer.html %}
+  <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
+  <!-- {% include google-analytics.html %} -->
+</body>
+</html>

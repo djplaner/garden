@@ -2,9 +2,7 @@
 title: Projects
 layout: projects
 description: Projects
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+background_image: "/images/projects/duck_meadows/initial_works/evapo_transpiration_beds-small"
 ---
 
 # Projects

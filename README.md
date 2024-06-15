@@ -63,6 +63,28 @@ Rainbow
 
 ``` 
 
+## How to
+
+### Collections pages - background image
+
+Collections pages are the second level pages that contain a collection of items. For example, the _Gardening_ page contains a collection of gardening services. The visual design of these pages is to have
+
+- an intro section with a heading and introductory text
+- followed by a list of items in the collection 
+- underneath all of this is a background image
+
+    The background image is optional. If not specified the page will default to a plain background.
+
+For the image to work you need to 
+
+- add a _large_ and _small_ version of the image into the `images` folder (at a point of your choosing) both saved as `.jpg` files
+- add the full path to the image (minus the `.jpg` extension) into the front matter of the relevant collection's markdown page
+
+For example, 
+
+- Gardening uses the mowing-bird image that can be found in [/images/gardening/mowing-bird.jpg (the large version)](/images/gardening/mowing-bird.jpg) and [/images/gardening/mowing-bird-sm.jpg (the small version)](/images/gardening/mowing-bird-sm.jpg)
+- In the front matter of the `gardening.md` file you would add `background_image: "/images/gardening/mowing-bird"`
+
 ## To do
 
 General design

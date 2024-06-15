@@ -1,21 +1,9 @@
 ---
-layout: default
+layout: collection
 bodyClass: "page-services"
 ---
 
 <div class="intro-banner-section">
-  {% if page.hero_image %}
-  <div class="intro-image-div">
-    <img src="/images/gardening/{{ page.hero_image }}.jpg" class="intro-bg-image"
-     srcset="
-      /images/gardening/{{ page.hero_image }}-sm.jpg 400w,
-      /images/gardening/{{ page.hero_image }}-sm.jpg 600w,
-      /images/gardening/{{ page.hero_image }}-lg.jpg 900w,
-      /images/gardening/{{ page.hero_image }}.jpg 1200w" sizes="(max-width: 640px) 100vw,
-      (max-width: 960px) 80vw,
-      60vw" alt="{{ page.hero_alt }} {{ page.hero_image }}">  
-  </div>
-  {% endif %}
   <div class="intro-overlay-div"></div>
   <div class="intro-text-div">
     <div class="container">
