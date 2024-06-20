@@ -34,11 +34,11 @@ Currently, I'm very happy to say that I'm following (or perhaps indulging is mor
 
 ## My Clients
 
-I have been, and continue to be, very fortunate with the people I have worked for, and with, in my business. My clients range from busy professionals such as [Narelle](/projects/narelle/) <link here> to equally busy retirees such as Cherryl <see link here>. Some of my clients, like Narelle, are new to gardening. Others like Cherryl (pictured below with Perry helping), have had years of experience. However, regardless of whether they are 'newbies' or 'old hands' I am genuinely always learning from them - about plants, gardening and life!
+I have been, and continue to be, very fortunate with the people I have worked for, and with, in my business. My clients range from busy professionals such as [Narelle](/projects/narelle/) <link here> to equally busy retirees such as Cherryl <see link here>. Some of my clients, like Narelle, are new to gardening. Others like Cherryl (pictured below with Perry helping), have had years of experience. However, regardless of whether they are 'newbies' or 'old hands' I am genuinely always learning from them - about plants, gardening and life!!
 
-![](cherryl_and_perry_optimised.jpg)
+![](../../images/about/cherryl_and_perry_optimised.jpg)
 
-One thing my clients all have in common is a desire to have their garden looking their absolute best. Which is great, because it's what I want too! This is why I consider my relationship with my clients as a partnership. Sometimes this means taking a leading role and sometimes it means I'm in more of a supporting role. Regardless of how involved I am and what role I take I'm passionate about providing the best level of service and help that I can. 
+One thing my clients all have in common is a desire to have their garden looking their absolute best. Which is great, because it's what I want too. This is why I consider my relationship with my clients as a partnership. Sometimes this means taking a leading role and sometimes it means I'm in more of a supporting role. Regardless of how involved I am and what role I take I'm passionate about providing the best level of service and help that I can. 
 
 In addition to residential services I also partner with both commercial and non-profit organisations. For example, I am proud to be a licensed sub-contractor for Feros Care <link here> a not-for-profit aged care and disability support provider. 
 
