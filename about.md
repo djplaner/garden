@@ -19,7 +19,7 @@ We offer a full spectrum of gardening services, from [general garden maintenance
 
 I'm a self-confessed plant addict—the type who goes shopping for a few things and returns with a car full of plants, often sneaking them in to avoid the "More plants?!" comment from my husband. Yes, I am that person.
 
-Born and raised in rural Queensland, Australia, I've always had a strong connection to the land. My career has spanned various industries, from hospitality to civil and structural engineering. Now, I'm grateful to be doing what I love: creating and maintaining beautiful gardens while helping others enjoy their outdoor spaces.
+Born and raised in rural Queensland, Australia, I've always had a strong connection to the land. My career has spanned various industries, from hospitality to IT to civil and structural engineering. Now, I'm grateful to be doing what I love: creating and maintaining beautiful gardens while helping others enjoy their outdoor spaces.
 
 ![](../../images/about/me_wheelbarrow_optimised.jpg)
 
