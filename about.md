@@ -11,36 +11,29 @@ I live in Postman's Ridge in the Valley just east of Toowoomba with my husband, 
 
 ![A German Shepherd being scratched by a man with both laying on a green lawn](../../images/about/rex_and_david_optimised.jpg "Rex being spoiled")
 
-I am a self-confessed plant addict - the type of person that ducks out for a few things at the shop and comes back laden with a car boot full of different plants and none of the things I originally went out to get.  The type of person who tries to sneakily unload the back of the car before their husband can offer the refrain 'More plants?!!!'. Yes, I am *that* person.
-
-
 ## My Services
-
-We offer a comprehensive range of services, from [general garden maintenance](/gardening/) to [full-scale design and 'builds'](/design/). While my services cover a diverse range (yes I even offer holiday care too!) they are all a reflection of who I am and what I believe are important in relation to gardening and landscaping. 
-
-I am passionate about the planet and just as passionate about the notion of superior service. Therefore, in every service I provide I'm always thinking of how I can make it more sustainable and eco-friendly. I also place the highest value on giving and receiving exceptional customer service.   
+ 
+We offer a full spectrum of gardening services, from [general garden maintenance](/gardening/) to [full-scale design and 'builds'](/design/). Each service reflects my commitment to sustainability and exceptional customer care. Passionate about the planet and superior service, I strive to make every project eco-friendly and deliver outstanding customer satisfaction.
 
 ## About Me
 
-Born and raised in regional, rural (and sometimes remote) Queensland, Australia I've always had a strong connection to the land. A common refrain of mine, even now in middle age (okay I'm being very generous to myself) is that 'I don't know what I want to be when I grow up'. 
+I'm a self-confessed plant addict—the type who goes shopping for a few things and returns with a car full of plants, often sneaking them in to avoid the "More plants?!" comment from my husband. Yes, I am that person.
 
-I've pursued careers in a range of different industries: hospitality (a fine dining waitress and barmaid), health and fitness (a personal fitness trainer), Information Technology (a programmer), academia (lecturer) and engineering (civil/structural). 
-
-As a side 'hustle' to these careers I have, amongst other things, operated a small beef cattle property (yes, I see the irony) with my husband, broken in horses and even been a mystery shopper. More recently, my husband and I have been, and continue to be, involved in the ongoing task of renovating the homestead and grounds of [Duck Meadows](/projects/duck_meadows/).
-
-Currently, I'm very happy to say that I'm following (or perhaps indulging is more correct) my passion in plants. I am very grateful to be doing what I love - maintaining and building beautiful gardens - and helping others in the process.
+Born and raised in rural Queensland, Australia, I've always had a strong connection to the land. My career has spanned various industries, from hospitality to civil and structural engineering. Now, I'm grateful to be doing what I love: creating and maintaining beautiful gardens while helping others enjoy their outdoor spaces.
 
 ![](../../images/about/me_wheelbarrow_optimised.jpg)
 
 ## My Clients
 
-I have been, and continue to be, very fortunate with the people I have worked for, and with, in my business. My clients range from busy professionals such as [Narelle](/projects/narelle/) <link here> to equally busy retirees such as Cherryl <see link here>. Some of my clients, like Narelle, are new to gardening. Others like Cherryl (pictured below with Perry helping), have had years of experience. However, regardless of whether they are 'newbies' or 'old hands' I am genuinely always learning from them - about plants, gardening and life!!
+I have been, and continue to be, very fortunate with the people I have worked for, and with, in my business. My clients range from busy professionals such as [Narelle](/projects/narelle/) <link here> to equally busy retirees such as Cherryl (pictured below with Perry helping). However, regardless of whether they are 'newbies' or 'old hands' I am genuinely always learning from them - about plants, gardening and life!!
 
 ![](../../images/about/cherryl_and_perry_optimised.jpg)
 
-One thing my clients all have in common is a desire to have their garden looking their absolute best. Which is great, because it's what I want too. This is why I consider my relationship with my clients as a partnership. Sometimes this means taking a leading role and sometimes it means I'm in more of a supporting role. Regardless of how involved I am and what role I take I'm passionate about providing the best level of service and help that I can. 
+Our clients include:
 
-In addition to residential services I also partner with both commercial and non-profit organisations. For example, I am proud to be a licensed sub-contractor for Feros Care <link here> a not-for-profit aged care and disability support provider. 
+- Private residential clients
+- Non-profit organizations (e.g., NDIS clients)
+- Commercial and small businesses
 
 ## Locations/Services Areas
 For our on-site gardening services we proudly serve the following areas: 
@@ -59,3 +52,45 @@ Our Design Service reaches further afield to:
 - and beyond... 
  
 *The geographical region for our Holiday Care and Design services depends on individual requests and the unique requirements of each garden and project.
+
+## Affiliations and Memberships
+We believe in maintaining the highest standards of quality and professionalism. Our affiliations with these organisations reflect our commitment to excellence and staying current with industry best practice.
+
+<div>
+<img src="/images/about/AIH-logo.webp" alt="AIH Logo" style="width:50px;height:auto; display:inline-block;vertical-align:middle;"><span style="display:inline-block; vertical-align:middle; margin-left:10px;"><strong> Australian Institute of Horticulture (AIH)</strong>
+</span>
+</div>
+The [Australian Institute of Horticulture](https://www.aih.org.au/) is the leading professional association for practising horticulturists in Australia. As members of this organisation we are dedicated to upholding the highest standards in the horticulture industry. Our professional horticulturist membership at the AIH signifies our commitment to professinal development, ethical practices and sustainable development.
+
+<div>
+<img src="/images/about/landscape_queensland.png" alt="LQ Logo" style="width:40px;height:auto; display:inline-block;vertical-align:middle;"><span style="display:inline-block; vertical-align:middle; margin-left:10px;"><strong> Landscape Queensland</strong>
+</span>
+</div>
+[Landscape Queensland](https://www.landscapequeensland.com.au/) is the peak industry body representing the interests of Queensland's landscape and garden maintenance contractors, designers and suppliers of products and services. Our membership with this organisation reflects our dedication to excellence in landscape design, construction, and maintenance. Membership with this organisation underscores our commitment to creating beautiful, functional and sustainable outdoor spaces.
+
+## Certifications and Qualifications
+
+<div>
+<img src="/images/about/grad_cap.png" alt="Graduation Cap" style="width:40px;height:auto; display:inline-block;vertical-align:middle;"><span style="display:inline-block; vertical-align:middle; margin-left:10px;"> Bachelor of Engineering (Civil - Hons)
+</span>
+</div>
+
+My engineering background provides a strong foundation in project management, structural design, and problem-solving skills which are invaluable in planning and executing complex landscape projects.
+
+<div>
+<img src="/images/about/RH_AIH_50mm.png" alt="RH_AIH" style="width:40px;height:auto; display:inline-block;vertical-align:middle;"><span style="display:inline-block; vertical-align:middle; margin-left:10px;"> Pursuing Registered Horticurist status with AIH
+</span>
+</div>
+
+I am currently pursuing Registered Horticulturist status with the Australian Institute of Horticulturists, a recognition that acknowledges senior practising horticulture professionals. This pursuit underscores my commitment to achieving the highest standards of professional development and excellence in the field of horticulture.
+
+## Insurance and Business Details
+We prioritise the safety and satisfaction of our clients. Here are some key details about our business operations.
+
+- Public and Product Liability - To provide our clients with peace of mind, we carry comprehensive Public and Product Liability insurance to the value of $10 million. This ensures you are protected in the unlikely event of any accidents or damages. For more details about our coverage including certificate of currency, please contact us directly. 
+
+- ABN - Additionally, our business is registered under ABN 15150746423, affirming our commitment to transparancy and reliability.
+
+- Police Checks - As part of providing a safe and trustworthy service, all our staff have current police checks. This is particularly important for our work with NDIS clients, ensuring peace of mind for all our customers.
+
+Our adherence to these standards reflect our dedication to professionalism and the highest quality of service.
