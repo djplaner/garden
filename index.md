@@ -13,7 +13,7 @@ show_call_box: true
 
 # Sandy's Gardening & Landscape Design
 
-More than mowing. From general garden maintenance to brand new design and builds we specialise in creating stunning outdoor spaces while prioritising the planet. Our passion for ensuring your garden looks it's absolute best is only matched by yours.
+More than mowing. From general garden maintenance to brand new design and builds we specialise in creating stunning outdoor spaces while prioritising the planet. Our passion for ensuring your garden looks its absolute best is only matched by yours.
 
 Contact us today. 
 

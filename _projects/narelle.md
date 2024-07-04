@@ -4,7 +4,7 @@ date: 2024-03-28T07:47:16+10:00
 weight: 2
 ---
 
-A rejuvenation project for an existing cottage-style garden. Reclaiming it's old-world charm and breathing new life into it's forgotten corners. 
+A rejuvenation project for an existing cottage-style garden. Reclaiming its old-world charm and breathing new life into its forgotten corners. 
 
 When Narelle originally contacted us she was desperate to get some control over her garden. A busy working mum of two adorable fur-babies (2 cats Kimba and Bella) the garden had gradually become over-run with weeds, despite her best attempts. No longer was the garden a source of joy but a constant reminder of all the things that had to be done. 
 
